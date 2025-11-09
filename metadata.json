@@ -1,0 +1,5 @@
+{
+  "name": "ZEXLY Music Creator",
+  "description": "An AI-powered music creation tool that generates professional, emotional rap lyrics based on user-defined parameters like duration, BPM, and mood. It uses a sophisticated prompt system to ensure high-quality, human-like output.",
+  "requestFramePermissions": []
+}
